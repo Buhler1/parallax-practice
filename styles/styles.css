@@ -1,0 +1,32 @@
+.parallax{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.hero {
+    background-image: url("../img/hero.jpg");
+  }
+
+.parallax1{
+    background-image: url("../img/chicago.jpg");
+}
+.parallax2{
+    background-image: url("../img/italy.jpg");
+}
+.parallax3{
+    background-image: url("../img/japan.jpg");
+}
+.parallax4{
+    background-image: url("../img/new-york.jpg");
+}
+.parallax5{
+    background-image: url("../img/vancouver.jpg");
+}
+.icon {
+    font-size: 2rem;
+}
+#main-text {
+    font-family: 'Merriweather', serif;
+    font-size: 5rem;
+  }
